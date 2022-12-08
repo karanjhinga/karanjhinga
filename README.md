@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @karanjhinga
 - 👀 I’m interested in Mobile Development
-- 🦾 I've experience developing Native Android Apps using Kotlin/React
-- 🌱 I’m currently learning Hyrird apps
-- 💞️ I’m looking to collaborate on Jetpack compose Projects
+- 🦾 I've experience developing Native Android Apps using Kotlin and React-Native
+- 🌱 I’m currently learning Kotlin Multiplatform Mobile
 - 📫 reach me on https://www.linkedin.com/in/karanjhinga/
 
 <!---
